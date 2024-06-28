@@ -9,6 +9,9 @@ As the name suggest, this app stores your passwords locally on your own android 
 * Easy to use.
 * Ability to add and delete.
 * Biometric Auth to get into the app. 🤫
+* ![Screenshot 2024-06-28 165852](https://github.com/RespectiveAT7/StorePass/assets/101619561/ac53cec3-0637-4835-b195-e2b685caa69f)
+* ![Screenshot 2024-06-28 165906](https://github.com/RespectiveAT7/StorePass/assets/101619561/4d3fdbac-1f0a-4ac2-a605-c49dcb7947ac)
+
 
 ### How to get APK?
 * First option is to build a debug apk of your own.
