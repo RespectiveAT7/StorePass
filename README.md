@@ -1,5 +1,5 @@
 # **StorePass**
-This is a local Password Manager! Save your passwords behind your biometrics and forget about remembering a thousand passwords.
+This is a local Password Manager! Save your passwords behind your biometrics and forget about remembering a thousand passwords, with Material-You design! 😎
 
 ## What is StorePass
 As the name suggest, this app stores your passwords locally on your own android device.
